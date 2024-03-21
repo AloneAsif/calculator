@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // calculator.ts
 import inquirer from 'inquirer';
 import chalk from 'chalk';

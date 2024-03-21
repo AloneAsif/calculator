@@ -1,15 +1,17 @@
 {
-  "name": "npx",
-  "version": "1.0.0",
-  "description": "",
+  "name": "aasif_simple_typescript_calculator",
+  "version": "1.0.1",
+  "description": "\"# calculator\"",
   "main": "main.js",
   "type": "module",
+  "bin": 
+    "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Muhammad Asif",
+  "license": "MIT",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.11.28"
